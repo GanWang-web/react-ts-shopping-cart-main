@@ -163,7 +163,7 @@ return (
           )
         })
       }
-      <img src='../../public/imgs/apple-svgrepo-com.svg' style={{position:'absolute',height:'5%',width:'5%',zIndex:'1',left:`${food[0]}%`,top:`${food[1]}%`}} />
+      <img src='/imgs/apple-svgrepo-com.svg' style={{position:'absolute',height:'5%',width:'5%',zIndex:'1',left:`${food[0]}%`,top:`${food[1]}%`}} />
     </Modal.Body>
   </Modal>
 )}
